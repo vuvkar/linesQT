@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/background.png</file>
+        <file>Assets/blocker.png</file>
+        <file>Assets/button_highscore.png</file>
+        <file>Assets/button_home.png</file>
+        <file>Assets/button_pause.png</file>
+        <file>Assets/button_play.png</file>
+        <file>Assets/cell_dark.png</file>
+        <file>Assets/cell_light.png</file>
+        <file>Assets/ghost_green.png</file>
+        <file>Assets/ghost_red.png</file>
+        <file>Assets/ghost_white.png</file>
+        <file>Assets/ghost_yellow.png</file>
+        <file>Assets/icon_path.png</file>
+        <file>Assets/panel_objectives.png</file>
+        <file>Assets/preview_1.png</file>
+        <file>Assets/preview_2.png</file>
+        <file>Assets/restart_button.png</file>
+        <file>Assets/splash.png</file>
+        <file>Assets/ConcertOne-Regular.ttf</file>
+        <file>Assets/cell_selected.png</file>
+        <file>Assets/icon.ico</file>
+    </qresource>
+</RCC>
